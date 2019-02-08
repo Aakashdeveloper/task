@@ -1,0 +1,29 @@
+{
+  "name": "api-gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^1.3.2",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.4",
+    "graphql": "0.11.7",
+    "graphql-tools": "2.18.0",
+    "joi": "^14.3.1",
+    "joi-date-extensions": "^1.2.0",
+    "merge-graphql-schemas": "1.4.0",
+    "mongoose": "^5.4.4",
+    "node-async-loop": "^1.2.2"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "nodemon": "^1.18.9"
+  }
+}
