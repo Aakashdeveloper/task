@@ -1,0 +1,45 @@
+.navbar-brand{
+    color: white;
+    font-size:30px;
+    font-style: italic;
+}
+
+.navbar-header{
+    color:red;
+    text-emphasis-color: red    
+}
+.output{
+    border: 2px solid rgb(131, 128, 128);
+    height: 400px;
+    text-align: center;
+    font-size:30px;
+    box-shadow: 2px 2px rgb(168, 167, 167);
+}
+
+.borderform{
+    border: 2px solid rgb(131, 128, 128);
+    height: 400px;
+    box-shadow: 2px 2px rgb(168, 167, 167)
+    
+}
+
+center{
+    font-size: 40px;
+    font-style: bold;
+}
+.radio2{
+    margin-left: 20px;
+}
+
+.whiteText{
+    color:#fff;
+    font-weight: bold;
+}
+.redText{
+    color: #f5f4f4;
+    font-size: 35px;
+    font-weight: bold;
+}
+.tealcolor{
+    background-color: rgb(117, 189, 185)
+}

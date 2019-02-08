@@ -1,0 +1,35 @@
+.navbar-brand{
+    color: white;
+    font-size:30px;
+    font-style: italic;
+}
+
+.navbar-header{
+    color:red;
+    text-emphasis-color: red    
+}
+.output{
+    border: 2px solid rgb(131, 128, 128);
+    height: 400px;
+    text-align: center;
+    font-size:30px;
+}
+.borderform{
+    border: 2px solid rgb(131, 128, 128);
+    height: 400px;
+    
+}
+center{
+    font-size: 40px;
+    font-style: bold;
+}
+.radio2{
+    margin-left: 20px;
+}
+
+.whiteText{
+    color:#fff
+}
+.tealcolor{
+    background-color: rgb(117, 189, 185)
+}
