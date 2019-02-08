@@ -1,0 +1,11 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"cities" : {
+		"selector" : ".page-List_of_metropolitan_areas_in_Asia #bodyContent #mw-content-text .wikitable tbody tr",
+		"source" : "https://en.wikipedia.org",
+		"path" : "/wiki/List_of_metropolitan_areas_in_Asia",
+		"descriptionSelector" : "#bodyContent #mw-content-text .mw-parser-output"
+	}
+}
