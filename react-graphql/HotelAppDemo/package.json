@@ -13,7 +13,7 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "apollo-boost": "^0.1.23",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "graphql": "^14.1.0",
     "graphql-tag": "^2.10.0",
     "react": "16.5.0",
