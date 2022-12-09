@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "dateformat": "^3.0.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "graphql": "0.11.7",
     "graphql-tools": "2.18.0",
     "joi": "^14.3.1",
